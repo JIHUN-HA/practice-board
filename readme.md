@@ -15,7 +15,7 @@
 
 
 
-[installation](#installation)
+#installation
 
 git clone https://github.com/JIHUN-HA/practice-board.git
 
