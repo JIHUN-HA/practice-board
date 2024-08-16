@@ -6,7 +6,8 @@
 
 위 의 json 파일을 이용하여 조건에 맞는 게시판을 html, css, javascript 만 이용하여 구현하기 
 
-
+## 데모(DEMO)
+[DEMO](https://jihun-ha.github.io/practice-board/)
 ### 1.게시물 목록이 올바르게 표시되는 기능
 ### 2. 작성자 별 필터링 기능이 적절하게 동작한다. 
 ### 3. 작성자 선택 옵션은 10개까지 
