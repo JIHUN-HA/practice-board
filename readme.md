@@ -1,7 +1,7 @@
 #조건에 맞는 게시판을 구현하기  (제한시간 45분)
 
-[문제](./problem1.png)
 
+![alt text](./problem1.png)
 위 의 json 파일을 이용하여 조건에 맞는 게시판을 html, css, javascript 만 이용하여 구현하기 
 
 
